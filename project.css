@@ -1,0 +1,61 @@
+body {
+    background-color: lightblue;
+    
+
+}
+
+.div1 {
+    background-color: blue;
+    height: auto;
+    width: 300px;
+    position:absolute;
+
+}
+
+
+.nametext {
+    color: white;
+    align-items: center;
+}
+
+.title {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600px;
+    letter-spacing: 1px;
+}
+
+.percentE {
+    position: relative;
+    height: 6px;
+    width: 225px;
+    background: lightblue;
+    display: block;
+}
+
+.percentH {
+    position: relative;
+    height: 6px;
+    width: 180px;
+    background: lightblue;
+    display: block;
+}
+
+.percentP {
+    position: relative;
+    height: 6px;
+    width: 100px;
+    background: lightblue;
+    display: block;
+}
+
+.left {
+    float: left;
+}
+
+.div2 {
+    background: white;
+    
+    width: 800px;
+    height: 1000px;
+}
